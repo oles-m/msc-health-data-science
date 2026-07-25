@@ -6,12 +6,12 @@ This repository serves as an index of projects completed during my MSc.
 
 ## Projects
 
-| Year | Course | Repository |
-|--------------|---------------------------------------------|--------------|
-| 2024 | Introduction to Data Science | [📁 Repository](repo-link) |
-| 2025 | Introduction to Statistics | [📁 Repository](repo-link) |
-| 2025 | Foundations of Software Development |[📁 Repository](repo-link)  |
-| 2025 | Applied Software Development | [📁 Repository](repo-link) |
-| 2025 | Data Types and Structures in Python and R | [📁 Repository](repo-link)  |
-| 2026 | Data Analysis for Epidemiology | [📁 Repository](repo-link)  |
-| 2026 | Statistical Modelling for Epidemiology | [📁 Repository](repo-link) |
+| Year | Course                                            |
+|------|---------------------------------------------------|
+| 2024 | [Introduction to Data Science](https://github.com/oles-m/intro-to-ds)              |
+| 2025 | [Introduction to Statistics](link)                |
+| 2025 | [Foundations of Software Development](link)       |
+| 2025 | [Applied Software Development](link)              |
+| 2025 | [Data Types and Structures in Python and R](link) |
+| 2026 | [Data Analysis for Epidemiology](link)            |
+| 2026 | [Statistical Modelling for Epidemiology](link)    |
