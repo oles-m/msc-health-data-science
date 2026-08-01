@@ -13,5 +13,5 @@ This repository serves as an index of projects completed during my MSc.
 | 2025 | [Foundations of Software Development](link)       |
 | 2025 | [Applied Software Development](link)              |
 | 2025 | [Data Types and Structures in Python and R](link) |
-| 2026 | [Data Analysis for Epidemiology](link)            |
+| 2026 | [Data Analysis for Epidemiology](https://github.com/oles-m/data-analysis-for-epidemiology)            |
 | 2026 | [Statistical Modelling for Epidemiology](link)    |
