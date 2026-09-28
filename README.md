@@ -9,7 +9,7 @@ This repository serves as an index of projects completed during my MSc.
 | Year | Course                                            |
 |------|---------------------------------------------------|
 | 2024 | [Introduction to Data Science](https://github.com/oles-m/intro-to-ds)              |
-| 2025 | [Introduction to Statistics](link)                |
+| 2025 | [Introduction to Statistics](https://github.com/oles-m/intro-to-statistics.git)                |
 | 2025 | [Foundations of Software Development](link)       |
 | 2025 | [Applied Software Development](link)              |
 | 2025 | [Data Types and Structures in Python and R](link) |
